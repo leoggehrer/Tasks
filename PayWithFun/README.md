@@ -41,8 +41,9 @@ Das Datenmodell für ***PayWithFun*** hat folgenden Aufbau:
 | Turnover       | decimal  | ---       | No       | No     | Yes      | RW     |  
 | Note           | String   | 1024      | Yes      | No     | Yes      | RW     |  
 
-ExecutionTime................Durchführungsdatum
-TurnoverTime.................Umsatzdatum  
+`ExecutionTime`..............Durchführungsdatum
+
+`TurnoverTime`...............Umsatzdatum
 
 *............................Muss eindeutig sein
 
